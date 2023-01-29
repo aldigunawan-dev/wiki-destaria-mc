@@ -2,5 +2,9 @@
 description: Selamat datang di Wiki DestariaMc Indonesia :D!
 ---
 
-# Selamat datang!
+# Wiki DestariaMc
+
+### Kamu mau cari tahu tentang apa? :o
+
+Silahkan lihat di bagian sebelah kiri ya!
 

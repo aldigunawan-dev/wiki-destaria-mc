@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Selamat datang!](README.md)
+* [Wiki DestariaMc](README.md)
