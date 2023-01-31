@@ -10,10 +10,7 @@
 ## Fitur&#x20;
 
 * [💡 Fitur standar](fitur/fitur-standar.md)
-* [🚀 Fitur unik](fitur/fitur-unik/README.md)
-  * [Vision](fitur/fitur-unik/vision.md)
-  * [Mission](fitur/fitur-unik/mission.md)
-  * [Focus](fitur/fitur-unik/focus.md)
+* [🚀 Fitur unik](fitur/fitur-unik.md)
 
 ## Rank
 
