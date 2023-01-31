@@ -42,4 +42,9 @@ Memang sih Keep inventory di Survival menyala, tapi tidak dengan the end dan net
 
 TempFly atau Temporary Fly adalah fitur gratis yang bisa diakses semua rank di destaria, namun rank rank standar ada batas waktu untuk waktu terbangnya, semakin bagus rank nya semakin tinggi batas waktu nya, tidak seperti server lain yang butuh bayar dulu agar bisa terbang. <mark style="color:blue;">**\[/fly]**</mark>
 
+### <img src="../.gitbook/assets/2023-01-31_21.42.44.png" alt="" data-size="original">
+
+Seperti yang terlihat di gambar tersebut, bahkan rank Guest (Abiseka), rank yang paling rendah dapat terbang
+
 </details>
+
