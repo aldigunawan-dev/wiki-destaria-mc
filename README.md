@@ -4,6 +4,8 @@ description: Selamat datang di Wiki DestariaMc Indonesia :D!
 
 # 👋 Welcome!
 
+<figure><img src=".gitbook/assets/Destariatext.jpg" alt=""><figcaption></figcaption></figure>
+
 **DestariaMc** Adalah server Minecraft yang memiliki banyak fitur unik dan Lore yang menghanyutkan untuk pengalaman server minecraft yang berbeda dari yang lain :o!
 
 Dengan mayoritas komunitas dan pengurus berasal dari Indonesia dan <mark style="color:orange;">**anti pay 2 win**</mark>, kamu pasti akan merasa nyaman bermain di server DestariaMc :D!

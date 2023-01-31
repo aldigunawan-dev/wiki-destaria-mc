@@ -1,5 +1,5 @@
 ---
-description: Fitur Fitur yang biasa biasa aja
+description: Fitur Fitur yang berguna tapi biasa saja
 ---
 
 # 💡 Fitur standar
