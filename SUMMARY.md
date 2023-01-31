@@ -9,7 +9,7 @@
 
 ## Fitur&#x20;
 
-* [💖 Fitur standar](fitur/fitur-standar.md)
+* [💡 Fitur standar](fitur/fitur-standar.md)
 * [🚀 Fitur unik](fitur/fitur-unik/README.md)
   * [Vision](fitur/fitur-unik/vision.md)
   * [Mission](fitur/fitur-unik/mission.md)
@@ -17,8 +17,8 @@
 
 ## Rank
 
-* [🤨 Rank standar](rank/rank-standar.md)
-* [🤑 Rank donator](rank/rank-donator.md)
+* [💸 Rank standar](rank/rank-standar.md)
+* [💰 Rank donator](rank/rank-donator.md)
 
 ## Rules
 

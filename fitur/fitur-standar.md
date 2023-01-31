@@ -2,7 +2,7 @@
 description: Fitur Fitur yang biasa biasa aja
 ---
 
-# 💖 Fitur standar
+# 💡 Fitur standar
 
 ## Fitur Fitur
 

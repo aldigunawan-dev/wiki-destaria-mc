@@ -2,7 +2,7 @@
 description: Apasih katanya bukan server P2W >:(
 ---
 
-# 🤑 Rank donator
+# 💰 Rank donator
 
 ### Rank Donator?
 
