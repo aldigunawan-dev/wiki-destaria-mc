@@ -48,3 +48,34 @@ Seperti yang terlihat di gambar tersebut, bahkan rank Guest (Abiseka), rank yang
 
 </details>
 
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f3ec">🏬</span>Kits</summary>
+
+Semua rank mempunyai 1 kit, semakin tinggi rank nya semakin bagus kits nya
+
+![](../.gitbook/assets/2023-01-31\_22.22.22.png)
+
+<mark style="color:blue;">**(Setiap enc book adalah 1 kit)**</mark>
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="2709">✉</span>Crate</summary>
+
+Di DestariaMc Juga ada Crates loh! ada bermacam macam crates yang berisi item item yang berguna, bahkan bisa mendapatkan elytra dari crate!, Crate hanya ada di Warp gacha yang bisa kamu akses lewat <mark style="color:blue;">**\[/warp gacha]**</mark>
+
+![](../.gitbook/assets/2023-01-31\_22.26.04.png)
+
+Kamu juga bisa mendapatkan Key crate lewat Vote
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4d3">📓</span>Vote</summary>
+
+Mungkin setiap server ada sistem vote, namun berbeda di DestariaMc, Untuk melakukan Rankup kamu memerlukan Jumlah vote yang besar, selain itu vote juga sangat menguntungkan, kamu bisa mendapat kan 1 stack block of diamond,Beacon atau bahkan elytra lewat crates, ada juga VoteParty dimana jika Vote mencapai Goal tertentu maka semua online player akan diberi 32 Diamonds <mark style="color:blue;">**\[/vote]**</mark>
+
+</details>

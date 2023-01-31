@@ -33,3 +33,32 @@ Dengan Fitur ItemFrame ini, kamu bisa mendekorasi Build mu menjadi lebih detail,
 Seperti yang anda lihat di foto tersebut, ada 4 Glasspane yang menempel tanpa Itemframe, Itu karena dengan fitur ini kamu bisa menyembunyikan Itemframe nya tanpa menghilangkan Item yang ditempelkan di Itemframe tersebut.
 
 </details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f3e6">🏦</span>Bank</summary>
+
+Di destariaMc kamu dapat menyimpan uang dengan aman tanpa pajak, uang yang kamu deposit akan terus bertambah dan bertambah berkat bunga dari bank tersebut, namun untuk mencapai lebih banyak limit deposit kamu perlu membayar bank untuk menaikkan level bank <mark style="color:blue;">**\[/bank]**</mark>
+
+![](../.gitbook/assets/2023-01-31\_22.34.36.png)
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f517">🔗</span>ChestLink</summary>
+
+Dengan ChestLink, kamu tidak perlu memikir kan tempat untuk saluran hoppermu, kamu hanya perlu 2 sign untuk membuat 2 chest terhubung, seberapapun jauh jarak nya.
+
+![](../.gitbook/assets/2023-01-31\_22.38.15.png)
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f6aa">🚪</span>BigDoors</summary>
+
+Dengan Fitur ini, kamu dapat mengcustom Pintu mu! kamu dapat membuka dan mentutup pintu dengan animasi yang keren! Hampir tidak ada server lain yang mempunyai Fitur seperti ini, Dengan adanya fitur ini kamu dapat membuat jalan rahasia yang hanya kamu sendiri bisa buka lewat <mark style="color:blue;">**\[/bdm]**</mark>
+
+</details>
+
