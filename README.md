@@ -2,24 +2,18 @@
 description: Selamat datang di Wiki DestariaMc Indonesia :D!
 ---
 
-# Wiki DestariaMc
-
-### Apa itu DestariaMC?
-
-DestariaMc Adalah server Minecraft yang memiliki banyak fitur unik dan Lore yang menghanyutkan untuk pengalaman server minecraft yang berbeda dari yang lain :o!\
-Dengan majoritas komunitas dan pengurus berasal dari Indonesia. Di server ini kamu tidak akan menemukan praktek pay 2 win jika kamu benar - benar bermain di server :D!
-
-Beberapa diantara fitur unik server ini ialah : \
-
-
-* Custom world gen&#x20;
-* Custom enchant
-* Chest linking&#x20;
-* Portals
-* Iklim 4 musim (seasons)
-* dan lain-lain
+# 👋 Welcome!
 
 {% hint style="info" %}
-Kamu bisa liat semua fitur unik server DestariaMc di sini [Broken link](broken-reference "mention")
+**Tentang server ini:**
+
+**Server Java, Sayangnya DestariaMc hanya bisa dimainkan di Java edition / Device PC**
+
+<mark style="color:blue;">**Ip : play.destaria.xyz**</mark>
+
+<mark style="color:blue;">**Version : 1.16.5 - 1.19+**</mark>
 {% endhint %}
 
+**DestariaMc** Adalah server Minecraft yang memiliki banyak fitur unik dan Lore yang menghanyutkan untuk pengalaman server minecraft yang berbeda dari yang lain :o!
+
+Dengan mayoritas komunitas dan pengurus berasal dari Indonesia dan <mark style="color:orange;">**anti pay 2 win**</mark>, kamu pasti akan merasa nyaman bermain di server DestariaMc :D!

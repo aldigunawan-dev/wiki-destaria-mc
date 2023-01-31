@@ -1,7 +1,27 @@
 # Table of contents
 
-* [Wiki DestariaMc](README.md)
+* [👋 Welcome!](README.md)
+* [🌏 World](world/README.md)
+  * [Warps](world/warps.md)
 
-## Fitur unik
+## Fitur&#x20;
 
-* [Page 1](fitur-unik/page-1.md)
+* [💖 Fitur standar](fitur/fitur-standar.md)
+* [🚀 Fitur unik](fitur/fitur-unik/README.md)
+  * [Vision](fitur/fitur-unik/vision.md)
+  * [Mission](fitur/fitur-unik/mission.md)
+  * [Focus](fitur/fitur-unik/focus.md)
+
+## Rank
+
+* [🤨 Rank standar](rank/rank-standar.md)
+* [🤑 Rank donator](rank/rank-donator.md)
+
+## Rules
+
+* [🗒 Rules](rules/rules.md)
+
+## Team Staff
+
+* [👋 List Staff](team-staff/list-staff/README.md)
+  * [Tim Developer](team-staff/list-staff/tim-developer.md)
