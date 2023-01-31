@@ -22,7 +22,7 @@ Survival World atau juga disebut "survi" adalah world yang bisa dipakai untuk ap
 
 ### Flatroom (Area kegabutan staff)
 
-Flatroom adalah world khusus staff yang biasa digunakan untuk mengbuild, membuat event, bahkan untuk membuat Arena, Arena itu apa ya?
+Flatroom adalah world khusus staff yang biasa digunakan untuk mengbuild, membuat event, bahkan untuk membuat Warp arena
 
 
 

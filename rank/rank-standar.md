@@ -20,46 +20,6 @@ Kamu bisa menggunakan command /rankup untuk mendapatkan rank upgrade setelah kam
 
 <details>
 
-<summary>Abiseka (Guest)</summary>
-
-Rank Guest atau juga di season 2 ini disebut "Abiseka" adalah rank pertama yang kamu dapatkan dalam bermain DestariaMc
-
-</details>
-
-<details>
-
-<summary>Raynar (Member)</summary>
-
-Rank Member atau juga di season 2 ini disebut "Raynar" adalah rank kedua yang kamu dapatkan ketika bermain DestariaMC, Batas waktu Flytime di rank Member juga meningkat!
-
-</details>
-
-<details>
-
-<summary>Arganta (Citizen)</summary>
-
-Rank Citizen atau juga di season 2 ini disebut "Arganta" adalah rank ketiga yang kamu dapatkan ketika bermain DestariaMC, Dengan naiknya kamu ke rank Citizen, Batas flytime juga akan ditingkatkan, lalu akses untuk menaruh spawner _<mark style="color:blue;">**(tapi masih belum bisa mendapatkan spawner)**</mark>_
-
-</details>
-
-<details>
-
-<summary>Bajra (<strong>Advanced)</strong></summary>
-
-Rank Advanced atau juga di season 2 ini disebut "Bajra" adalah rank ketiga yang kamu dapatkan ketika bermain DestariaMc, Dan udah pasti bisa _<mark style="color:blue;">**FLEX**</mark>_ ke orang orang di server, Command /nightvision sudah bisa diakses oleh Advanced _<mark style="color:blue;">**( btw fly time sama redprotect nya meningkat yah )**</mark>_
-
-</details>
-
-<details>
-
-<summary>Sepuh (Veteran)</summary>
-
-Rank Veteran atau juga di season 2 ini disebut "Sepuh" adalah rank keempat dan terakhir yang kamu bisa dapatkan secara gratis di DestariaMc, Kalau sudah sampai sini pasti udah kakek kakek yah _<mark style="color:blue;">**( Di rank Veteran ini bisa Menggendong villager dan command command lainnya, contohnya /privatevault, mendapatkan spawner dan /nightvision)**</mark>_
-
-</details>
-
-<details>
-
 <summary>Guest (Abiseka)</summary>
 
 Rank Guest atau juga di season 2 ini disebut "Abiseka" adalah rank pertama yang kamu dapatkan dalam bermain DestariaMc
