@@ -1,8 +1,11 @@
 # Table of contents
 
 * [👋 Welcome!](README.md)
-* [🌏 World](world/README.md)
-  * [Warps](world/warps.md)
+
+## Informasi umum
+
+* [🌏 World](informasi-umum/world/README.md)
+  * [Warps](informasi-umum/world/warps.md)
 
 ## Fitur&#x20;
 
