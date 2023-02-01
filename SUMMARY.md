@@ -14,7 +14,12 @@
 
 ## Rank
 
-* [💸 Rank standar](rank/rank-standar.md)
+* [💸 Rank standar](rank/rank-standar/README.md)
+  * [Abiseka (Guest)](rank/rank-standar/abiseka-guest.md)
+  * [Raynar (Member)](rank/rank-standar/raynar-member.md)
+  * [Arganta (Citizen)](rank/rank-standar/arganta-citizen.md)
+  * [Bajra (Advanced)](rank/rank-standar/bajra-advanced.md)
+  * [Sepuh (Veteran)](rank/rank-standar/sepuh-veteran.md)
 * [💰 Rank donator](rank/rank-donator.md)
 
 ## Rules

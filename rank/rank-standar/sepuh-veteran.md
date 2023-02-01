@@ -1,0 +1,7 @@
+---
+description: Penjelasan Rank Veteran
+---
+
+# Sepuh (Veteran)
+
+Veteran atau di season 2 ini disebut "Sepuh" Adalah Rank standar ke 5 dan Rank terakhir yang didapatkan melalui <mark style="color:blue;">**\[/Rankup]**</mark>, Mencapai Rank Veteran adalah titik puncak grinding kalian, lalu apakah grinding itu worth it? di rank veteran ini kalian akan bisa menggunakan <mark style="color:blue;">**\[/pv]**</mark> bisa menyimpan barang layaknya shulker hanya dengan command! Kamu juga bisa mengubah Nickname kalian dengan command <mark style="color:blue;">**\[/nick]**</mark> agar namamu bergaya, Kalian juga mendapat akses ke Command <mark style="color:blue;">**\[/craft]**</mark>, ini sangat membantu kita karena tak perlu Crafting Table kita bisa craft menggunakan command, Sethome kamu juga meningkat yang awalnya 3 menjadi 4, Kalian juga dapat mengubah nama item dengan command <mark style="color:blue;">**\[/ie rename]**</mark>, Selain itu kalian juga bisa menggendong mob dan villager untuk memudahkan trading atau farm, Maksimal jumlah Claim Redprotect untuk Veteran adalah 6, dan juga batas claim block sebesar 7000 blocks, Batas waktu FlyTime kalian juga ditingkatkan ke 720 Detik, Hampir **2x** lipat rank sebelumnya, kalian juga akan mendapatkan 45 detik bonus flytime setiap hari, Dan yang paling menguntungkan dan berguna di rank Veteran adalah Silk Spawner, Kalian bisa mendapatkan Spawner di World Resource dan Survival, Perlu diingat bahwa Spawner saat di break memiliki chance untuk hancur dan tidak drop.
