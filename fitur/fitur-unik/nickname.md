@@ -8,4 +8,4 @@ Seperti namanya, fitur ini memperbolehkan kamu untuk men-Disguise / menyembunyik
 Note :\
 Hanya untuk Donatur+ Rank, Dapat menggunakan warna rgb menggunakan website [https://rgb.birdflop.com/](https://rgb.birdflop.com/)
 
-![](<../../.gitbook/assets/Screenshot (321).png>)<img src="../../.gitbook/assets/Screenshot (322) (1).png" alt="" data-size="original">
+![](<../../.gitbook/assets/Screenshot (321).png>)<img src="../../.gitbook/assets/Screenshot (322).png" alt="" data-size="original">
