@@ -19,7 +19,7 @@
 ## Fitur
 
 * [💡 Fitur standar](fitur/fitur-standar/README.md)
-  * [💰 Balance](fitur/fitur-standar/balance.md)
+  * [💰 Balance](fitur/fitur-standar/page-2.md)
   * [🛒 Shop](fitur/fitur-standar/shop.md)
   * [💀 Graves](fitur/fitur-standar/graves.md)
   * [📖 Kits](fitur/fitur-standar/kits.md)
@@ -83,7 +83,7 @@
 
 ## 🐛 Miscellaneous
 
-* [🎐 Event](miscellaneous/event/README.md)
+* [🎐 Event](miscellaneous/event.md)
   * [Build Battle Individu By BlueAgungWidu](miscellaneous/event/build-battle-individu-by-blueagungwidu.md)
   * [Invite a Friend](miscellaneous/event/invite-a-friend.md)
   * [Build Battle "Keberagaman Indonesia"](miscellaneous/event/build-battle-keberagaman-indonesia.md)
