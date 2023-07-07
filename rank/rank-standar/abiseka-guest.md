@@ -1,14 +1,13 @@
 ---
-description: Pendatang baru di dunia baru yang asing
+description: Pendatang di dunia baru yang asing
 ---
 
 # Abiseka (Guest)
 
-Abiseka adalah penjelajah andal yang belum memutuskan untuk menetap dan tinggal di dunia baru.\
-Rank pertama yang kamu dapatkan saat bergabung ke tim penjelajah dunia baru.\
+Abiseka adalah penjelajah yang baru memulai petualangannya di dunia baru. Abiseka adalah rank pertama yang kamu dapatkan saat bergabung ke tim penjelajah dunia baru.\
 Karena kamu adalah penjelajah baru, banyak yang belum kamu bisa akses.\
 Jangan khawatir! bahkan dengan peralatan yang kamu punya sekarang, kamu bisa menjelajahi semua penjuru dunia baru.\
-Guest atau yang di season 2 ini disebut "Abiseka" adalah rank pertama yang kamu dapatkan dalam bermain DestariMc, Dari rank ini, kalian bisa mengakses command command yang di server lain tidak bisa dipakai oleh rank gratisan, contohnya <mark style="color:blue;">**/bank**</mark>, Kalian juga bisa terbang menggunakan <mark style="color:blue;">**/fly**</mark>, namun ada batas waktu 120 detik, kalian bisa membeli waktu terbang dengan <mark style="color:blue;">**/tf buy**</mark>, Setiap kali kamu naik rank maka batas durasi terbang akan meningkat, selain itu kamu juga bisa mengakses <mark style="color:blue;">**/rp**</mark> di survival agar bisa membuat base dengan aman tanpa dicuri atau Grief
+Guest atau yang di season 2 ini disebut "Abiseka" memiliki akses ke command-command yang umumnya tidak bisa digunakan oleh rank rendah di server lain. contohnya, Kalian bisa terbang menggunakan <mark style="color:blue;">**/fly**</mark>. Walau ada batas waktu 120 detik, kalian bisa membeli waktu terbang dengan <mark style="color:blue;">**/tf buy**</mark>.
 
 Rank Abiseka sudah memliki akses ke semua fitur standar seperti <mark style="color:blue;">**flight crystal,**</mark> <mark style="color:blue;">**bank**</mark><mark style="color:blue;"><mark style="color:blue;">**, rtp**<mark style="color:blue;"></mark><mark style="color:blue;">**,**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;"><mark style="color:blue;">**kit guest**<mark style="color:blue;"></mark><mark style="color:blue;">**,**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;"><mark style="color:blue;">**Land Claim**<mark style="color:blue;"></mark> dan lainnya
 
