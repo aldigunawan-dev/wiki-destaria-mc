@@ -5,7 +5,7 @@ description: Player old 1/2
 # Pancaka (Beta)
 
 Cara mendapatkan Rank ini adalah dengan mengikuti Tes Beta Tester yang akan diadakan setiap season akan berakhir\
-Pancaka adalah kelompok orang-orang yang berpengaruh dalam server ini. walau mereka tidak terlalu dikenali oleh player-player tetapi mereka tetap memiliki jasa mereka masing-masing. Dikarenakan hal tersebut mereka para Pancaka memiliki tingkat akses dan perks yang sama seperti rank Ksatria.  \
+Pancaka adalah kelompok orang-orang yang berpengaruh dalam server ini. Walau mereka tidak terlalu dikenali oleh player-player tetapi mereka tetap memiliki jasa mereka masing-masing. Dikarenakan hal tersebut mereka para Pancaka memiliki tingkat akses dan perks yang sama seperti rank Ksatria.  \
 Dengan rank ini kamu bisa mengakses 3 <mark style="color:blue;">**/pv**</mark> loh! Kamu bisa mengakses Crafting table dari mana saja menggunakan command <mark style="color:blue;">**/craft**</mark>. Dan juga rank Ksatria / Knight ini memiliki claim sebanyak 8 rp, dan <mark style="color:blue;">**/rp blocklimit**</mark> yang naik menjadi 12.000, dan masih banyak lagi fitur fitur rank ini! \
 
 
