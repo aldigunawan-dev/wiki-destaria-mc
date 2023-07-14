@@ -25,7 +25,7 @@
   * [📖 Kits](fitur/fitur-standar/kits.md)
   * [📓 Vote](fitur/fitur-standar/vote.md)
 * [🚀 Fitur Unik](fitur/fitur-unik.md)
-  * [↕  Elevator](fitur/fitur-unik/elevator.md)
+  * [↕ Elevator](fitur/fitur-unik/elevator.md)
   * [🕊 TempFly](fitur/fitur-unik/tempfly.md)
   * [🌏 Custom World Generation](fitur/fitur-unik/custom-world-generation.md)
   * [🚪 BigDoors](fitur/fitur-unik/bigdoors.md)
@@ -66,7 +66,7 @@
 
 ## Team Staff
 
-* [👔 List Staff](team-staff/list-staff/README.md)
+* [👋 List Staff](team-staff/list-staff/README.md)
   * [Tim Developer](team-staff/list-staff/tim-developer.md)
   * [Tim Admin](team-staff/list-staff/tim-admin.md)
   * [Tim Moderator](team-staff/list-staff/tim-moderator.md)
