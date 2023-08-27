@@ -12,8 +12,6 @@ Minecraft MP\
 Top Minecraft Servers\
 [https://topminecraftservers.org/server/18916](https://topminecraftservers.org/server/18916)\
 \
-TopG\
-[https://topg.org/minecraft-servers/server-631336](https://topg.org/minecraft-servers/server-631336)\
 \
 Minecraft Server Net\
 [https://minecraft-server.net/details/Destariamc/](https://minecraft-server.net/details/Destariamc/)
