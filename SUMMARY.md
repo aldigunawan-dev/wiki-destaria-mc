@@ -84,6 +84,7 @@
 ## 🐛 Miscellaneous
 
 * [🎐 Event](miscellaneous/event.md)
+  * [Invite friends 2.0](miscellaneous/event/invite-friends-2.0.md)
   * [Build Battle Individu By BlueAgungWidu](miscellaneous/event/build-battle-individu-by-blueagungwidu.md)
   * [Invite a Friend](miscellaneous/event/invite-a-friend.md)
   * [Build Battle "Keberagaman Indonesia"](miscellaneous/event/build-battle-keberagaman-indonesia.md)

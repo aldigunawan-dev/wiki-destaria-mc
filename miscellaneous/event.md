@@ -8,13 +8,35 @@ Event ini akan hadir dengan hadiah yang berlimpah!, bisa berupa money/balance, i
 
 Berikut event yang pernah diadakan.
 
+
+
+<details>
+
+<summary>Invite friends 2.0</summary>
+
+Invite friend
+
+Halo petualang! Kali ini diadakan kembali event friends invite :D!
+
+Persyaratan event ini sama seperti event invite sebelumnya yaitu kamu dan teman yang kamu ajak harus mencapai rank Arganta (citizen). Kamu dan teman yang kamu ajak akan diberikan rank reswara berdurasi 1 bulan ketika sudah mencapai rank tersebut :o!
+
+Berikut langkah-langkah singkat yang bisa kamu ikuti:
+
+1. Undang teman kamu bermain di DestariaMc
+2. Tetap bermain dan capai rank Arganta
+3. Ketika kamu dan teman mu sudah mencapai rank Arganta atau rank diatasnya (Termasuk rank donatur) Maka silahkan buka tiket di #📤・destaria-ticket
+4. Kirim screenshot bukti rank kamu dan teman kamu.
+5. Selamat :D! kamu dan teman mu akan mendapatkan rank Reswara berdurasi 1 bulan
+
+Event ini belaku hingga 30 November 2023. Tunggu apa lagi? AYo ajak temanmu dan jelajahi dunia baru DestariaMc :D!
+
+</details>
+
 <details>
 
 <summary>Build Battle Individu By BlueAgungWidu</summary>
 
 Dikarenakan sedikitnya player yang mengikuti event ini. event ini dibatalkan.
-
-
 
 </details>
 
@@ -22,11 +44,11 @@ Dikarenakan sedikitnya player yang mengikuti event ini. event ini dibatalkan.
 
 <summary>Invite a Friend</summary>
 
-jika kamu bisa mengundang teman kamu dan teman kamu rankup sampai **rank citizen**, kamu dan teman kamu akan mendapatkan rank **premium 1** bulan mudah kan? **Langkah-Langkah :** \
-1\. Undang teman kamu untuk bermain di server DestariaMc. \
-2\. Ajak bermain teman kamu sampai dia rank Advance. \
-3\. Jika teman kamu sudah rank advance, silahkan open ticket melalui ⁠📤・destaria-ticket . (jangan lupa kirim bukti ya :D) \
-4\. Selamat teman kamu dan kamu akan mendapatkan rank Premium 1 bulan. \
+jika kamu bisa mengundang teman kamu dan teman kamu rankup sampai **rank citizen**, kamu dan teman kamu akan mendapatkan rank **premium 1** bulan mudah kan? **Langkah-Langkah :**\
+1\. Undang teman kamu untuk bermain di server DestariaMc.\
+2\. Ajak bermain teman kamu sampai dia rank Advance.\
+3\. Jika teman kamu sudah rank advance, silahkan open ticket melalui ⁠📤・destaria-ticket . (jangan lupa kirim bukti ya :D)\
+4\. Selamat teman kamu dan kamu akan mendapatkan rank Premium 1 bulan.\
 Oh ya event ini akan berakhir pada **7 July 2022.** Tunggu apalagi? Ayo ajak temanmu untuk bermain bersama di DestariaMc
 
 </details>
@@ -37,8 +59,8 @@ Oh ya event ini akan berakhir pada **7 July 2022.** Tunggu apalagi? Ayo ajak tem
 
 event kali ini adalah building bertemakan Indonesia, kalian bisa building rumah adat atau apapun yang ada kaitanya dengan negri kita tercinta ini.\
 Waktu Pelaksanaan : 8 July - 25 July\
-Tempat : Survival Destaria \
-Penilaian : 26 July - 1 Agustus \
+Tempat : Survival Destaria\
+Penilaian : 26 July - 1 Agustus\
 Pengumuman Pemenang : 2 Agustus
 
 Event ini berhadiah sampai dengan 50K E-Wallet, Jika peserta >30 maka akan di raise 100% untuk hadiah
@@ -49,7 +71,7 @@ Event ini berhadiah sampai dengan 50K E-Wallet, Jika peserta >30 maka akan di ra
 
 <summary>Event Dadakan Treasure Hunt</summary>
 
-Akan di sebar banyak harta karun di map survival. Tugas kalian hanya menemukan harta karun tersebut berdasarkan clue dan koordinat yang ada di live youtube \
+Akan di sebar banyak harta karun di map survival. Tugas kalian hanya menemukan harta karun tersebut berdasarkan clue dan koordinat yang ada di live youtube\
 @☆ Apel \[skripsi] :D!
 
 Event di mulai jika player di server sudah agak ramai, jadi ayo buruan login dan gali harta karun nya :D\
