@@ -1,6 +1,6 @@
 # 🏯 Dungeon Structure
 
-Di world resource dimensi overworld, terdapat banyak dungeon dalam bentuk strcuture. Dungeon-dungeon ini dipenuhi banyak mobs dan loot yang mungkin tidak seberapa jika dibandingkan dengan jumlah dan keganasan mob yang menghuni bangunan-bangunan tersebut. Namun, di dungeon ini dapat ditemukan enchant book dengan rarity <mark style="color:red;">Very Special</mark>.\
+Di world resource dimensi overworld, terdapat banyak dungeon dalam bentuk strcuture. Dungeon-dungeon ini dipenuhi banyak mobs dan loot yang mungkin tidak seberapa jika dibandingkan dengan jumlah dan keganasan mob yang menghuni bangunan-bangunan tersebut. Namun, di dungeon ini dapat ditemukan enchant book dengan rarity <mark style="color:red;">Very Special</mark>. \
 \
 Berikut ialah jenis-jenis dungeon yang dapat kalian temui di world reso:
 
@@ -38,4 +38,6 @@ Dungeon ini berbentuk tower dengan banyak cabang. Terdapat banyak ruangan dan sp
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Kalau dungeon-dungeon sebelumnya berbentuk tower atau berada di bawah tanah. Dungeon yang satu ini berbentuk kastil yang dipenuhi zombie dan creeper :D! Terdapat banyak loot dan spawner di dalamnya seperti dungeon lain. Banyak ruang-ruang berbagai jenis bahkan sebuah penjara yang berisi beberapa spawner zombie.\
+Kalau dungeon-dungeon sebelumnya berbentuk tower atau berada di bawah tanah. Dungeon yang satu ini berbentuk kastil yang dipenuhi zombie dan creeper :D! Terdapat banyak loot dan spawner di dalamnya seperti dungeon lain. Banyak ruang-ruang berbagai jenis bahkan sebuah penjara yang berisi beberapa spawner zombie.
+
+Spawner di dungeon-dungeon di atas sangat banyak. Dan jika tidak dihancurkan, spawner nya akan menghilang perlahan-lahan. Namun spawner di dungeon ini tidak bisa di silkspawner. Ya alasannya sudah jelas mengapa. Namun jika kamu masih tidak mengerti kenapa? silahkan lihat harga spawner di /shop dan lihat berapa jumlah spawner yang ada di dungeon-dungeon tersebut.\
