@@ -36,6 +36,7 @@
   * [👜 Item Management](fitur/fitur-unik/item-management/README.md)
     * [👜 ChestLink](fitur/fitur-unik/item-management/chestlink.md)
     * [⏳ AutoCraft](fitur/fitur-unik/item-management/autocraft.md)
+  * [🏯 Dungeon Structure](fitur/fitur-unik/dungeon-structure.md)
   * [🌩 Visual Weather](fitur/fitur-unik/visual-weather.md)
 
 ## Rank

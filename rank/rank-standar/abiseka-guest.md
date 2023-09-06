@@ -9,7 +9,7 @@ Karena kamu adalah penjelajah baru, banyak yang belum kamu bisa akses.\
 Jangan khawatir! bahkan dengan peralatan yang kamu punya sekarang, kamu bisa menjelajahi semua penjuru dunia baru.\
 Guest atau yang di season 2 ini disebut "Abiseka" memiliki akses ke command-command yang umumnya tidak bisa digunakan oleh rank rendah di server lain. contohnya, Kalian bisa terbang menggunakan <mark style="color:blue;">**/fly**</mark>. Walau ada batas waktu 120 detik, kalian bisa membeli waktu terbang dengan <mark style="color:blue;">**/tf buy**</mark>.
 
-Rank Abiseka sudah memliki akses ke semua fitur standar seperti <mark style="color:blue;">**flight crystal,**</mark> <mark style="color:blue;">**bank**</mark><mark style="color:blue;"><mark style="color:blue;">**, rtp**<mark style="color:blue;"></mark><mark style="color:blue;">**,**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;"><mark style="color:blue;">**kit guest**<mark style="color:blue;"></mark><mark style="color:blue;">**,**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;"><mark style="color:blue;">**Land Claim**<mark style="color:blue;"></mark> dan lainnya
+Rank Abiseka sudah memliki akses ke semua fitur standar seperti <mark style="color:blue;">**flight crystal,**</mark> <mark style="color:blue;">**bank, rtp,**</mark><mark style="color:blue;">\*\*</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**kit guest**</mark><mark style="color:blue;">, \*\*</mark><mark style="color:blue;">**Land Claim**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">dan lainnya</mark>
 
 ### Detail Perks khusus rank Abiseka :
 
