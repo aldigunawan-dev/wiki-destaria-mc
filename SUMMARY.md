@@ -19,13 +19,14 @@
 ## Fitur
 
 * [💡 Fitur standar](fitur/fitur-standar/README.md)
-  * [💰 Balance](fitur/fitur-standar/page-2.md)
-  * [🛒 Shop](fitur/fitur-standar/shop.md)
+  * [💰 Economy](fitur/fitur-standar/economy/README.md)
+    * [🛒 Shop](fitur/fitur-standar/economy/shop.md)
   * [💀 Graves](fitur/fitur-standar/graves.md)
   * [📖 Kits](fitur/fitur-standar/kits.md)
   * [📓 Vote](fitur/fitur-standar/vote.md)
   * [🛡 Claim (RedProtect)](fitur/fitur-standar/redprotect.md)
 * [🚀 Fitur Unik](fitur/fitur-unik.md)
+  * [Chest Shop](fitur/fitur-unik/chest-shop.md)
   * [↕ Elevator](fitur/fitur-unik/elevator.md)
   * [🕊 TempFly](fitur/fitur-unik/tempfly.md)
   * [🌏 Custom World Generation](fitur/fitur-unik/custom-world-generation.md)
@@ -99,3 +100,7 @@
   * [Bang cara sethome gimana?](miscellaneous/pertanyaan/bang-cara-sethome-gimana.md)
   * [Bang cara matiin pvp di rp gimana?](miscellaneous/pertanyaan/bang-cara-matiin-pvp-di-rp-gimana.md)
   * [Bang cara biar bisa fly di rp gimana?](miscellaneous/pertanyaan/bang-cara-biar-bisa-fly-di-rp-gimana.md)
+
+## Unused
+
+* [💰 Balance](unused/page-2.md)
