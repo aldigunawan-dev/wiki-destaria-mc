@@ -4,7 +4,7 @@ Di world resource dimensi overworld, terdapat banyak dungeon dalam bentuk strcut
 \
 Berikut ialah jenis-jenis dungeon yang dapat kalian temui di world reso:
 
-<figure><img src="../../.gitbook/assets/image.png" alt="Dungeon di bawah tanah, memiliki 3 level"><figcaption><p>Rougelike</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="Dungeon di bawah tanah, memiliki 3 level"><figcaption><p>Rougelike</p></figcaption></figure>
 
 ### Rougelike
 
@@ -12,7 +12,7 @@ Dungeon ini terdiri dari koridor-koridor panjang dan banyak ruangan. Dungeon ini
 
 ### Battle Tower
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Battle tower</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Battle tower</p></figcaption></figure>
 
 Sesuai namanya, dungeon ini berbentuk tower. Dimana di setiap lantai terdapat spawner dan sebuah ore-block. Setiap lantainya di isi loot yang semakin bagus setiap kali kamu naik keatas.
 

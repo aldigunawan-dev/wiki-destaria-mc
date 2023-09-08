@@ -1,5 +1,12 @@
+---
+description: World yang menyimpan banyak rahasia
+---
+
 # 🌏 Custom World Generation
 
-Tahukah kamu!?, bahwa DestariaMc adalah SATU satunya server indonesia yang menggunakan Custom world generator? ini artinya destaria bisa membuat biome biome unik dan structure sctructure secara otomatis dan alami
+Ini adalah fitur andalan DestariaMc sejak Beta Release Season 1. Custom world generation dengan config yang dibuat sendiri. Sepengetahuan pihak DestariaMc. Server kami lah yang pertama kali menggunakan custom world generation di Indonesia :D!
 
-![](../../.gitbook/assets/spaces\_QWdkjnipGggPOMXlCr0R\_uploads\_git-blob-6c71dbe4056e2a9a297cf359dc7d931aa6b0d5eb\_2023-01-31\_19.webp)
+Dengan config yang dirakit sendiri oleh Founder, Owner, sekaligus Developer yang paling banyak kerjaannya. World DestariaMc dipenuhi oleh biome yang sangat indah dan unik. Salah satu biome custom yang ada di DestariaMc adalah Maple Forest. ini adalah biome favorit XiDS\_ :D!
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Maple Forest</p></figcaption></figure>
+

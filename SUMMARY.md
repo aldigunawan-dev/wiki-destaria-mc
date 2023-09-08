@@ -23,7 +23,7 @@
     * [🛒 Shop](fitur/fitur-standar/economy/shop.md)
   * [💀 Graves](fitur/fitur-standar/graves.md)
   * [📖 Kits](fitur/fitur-standar/kits.md)
-  * [📓 Vote](fitur/fitur-standar/vote.md)
+  * [📓 Vote dan crates](fitur/fitur-standar/vote.md)
   * [🛡 Claim (RedProtect)](fitur/fitur-standar/redprotect.md)
 * [🚀 Fitur Unik](fitur/fitur-unik.md)
   * [Chest Shop](fitur/fitur-unik/chest-shop.md)
